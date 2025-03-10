@@ -16,7 +16,7 @@ QR-Checker/
 │   ├── design_qr.py  # Python script to place QR codes in token design
 │── printing_layout/
 │   ├── arrange_tokens.py  # Python script for print layout
-│── README.md  # Project documentation
+README.md  # Project documentation
 ```
 
 ---
